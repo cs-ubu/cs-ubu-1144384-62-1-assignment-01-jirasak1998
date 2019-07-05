@@ -1,0 +1,17 @@
+{
+  "name": "app01",
+  "version": "1.0.0",
+  "description": "โครงงานสำหรับการบ้านแรก",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "59110440091",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.9.2",
+    "@types/request": "^2.48.1",
+    "request": "^2.88.0"
+  }
+}
